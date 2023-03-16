@@ -9,7 +9,7 @@
     </td>
       
  <td>
-    <img src="https://https://user-images.githubusercontent.com/90475460/225554968-4d962b22-c2c2-457e-8089-3093c24e3f7d.png" alt="2">
+    <img src="https://user-images.githubusercontent.com/90475460/225554968-4d962b22-c2c2-457e-8089-3093c24e3f7d.png" alt="2">
  </td>
    <td>
       <img src="https://user-images.githubusercontent.com/90475460/225555012-e0769f72-da98-4105-87af-3fa1f68d4c47.png" alt="3">
